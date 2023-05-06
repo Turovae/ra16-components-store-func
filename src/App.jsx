@@ -1,4 +1,3 @@
-import './App.css';
 import './css/main.css';
 import ShopItemFunc from './components/ShopItemFunc';
 
