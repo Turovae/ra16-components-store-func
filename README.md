@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qscl84fnjr54yp5k?svg=true)](https://ci.appveyor.com/project/Turovae/ra16-components-store-func)
+
+---
+
 Страница интернет-магазина
 ===
 
